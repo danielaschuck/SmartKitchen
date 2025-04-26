@@ -1,32 +1,32 @@
-Nome_Receita, Ingredientes, Objetivo, Tempo_Preparo_Minutos, Restricoes_Alimentares, Calorias
-Frango Grelhado com Legumes, frango, brócolis, cenoura, azeite, Emagrecimento, 25, Sem Lactose, 250
-Peixe Assado com Batata, peixe, batata, azeite, limão, Emagrecimento, 45, Sem Lactose, 350
-Salada de Quinoa, quinoa, tomate, pepino, azeite, limão, Emagrecimento, 20, Sem Lactose, Sem Glúten, 300
-Omelete de Legumes, ovo, cenoura, espinafre, tomate, Emagrecimento, 15, Sem Lactose, Sem Glúten, 200
-Smoothie de Banana, banana, aveia, leite vegetal, Emagrecimento, 10, Vegano, Sem Lactose, Sem Glúten, 180
-Arroz Integral com Frango, arroz integral, frango, brócolis, Emagrecimento, 35, Sem Lactose, 350
-Carne Moída com Abóbora, carne moída, abóbora, cebola, Emagrecimento, 40, Sem Lactose, 400
-Peito de Frango Grelhado, frango, brócolis, azeite, Emagrecimento, 30, Sem Lactose, 300
-Sopa de Legumes, cenoura, batata, abobrinha, cebola, Emagrecimento, 50, Sem Lactose, Sem Glúten, 220
-Panqueca de Aveia, aveia, banana, leite vegetal, Emagrecimento, 15, Sem Lactose, Sem Glúten, 180
-Frango Grelhado com Legumes, frango, brócolis, cenoura, azeite, Ganho de Massa, 30, Sem Lactose, 400
-Arroz de Couve-flor com Frango, arroz de couve-flor, frango, cebola, Ganho de Massa, 35, Sem Lactose, 350
-Salmão ao Forno com Aspargos, salmão, aspargos, azeite, limão, Ganho de Massa, 40, Sem Lactose, 500
-Bowl de Açaí com Frutas, açaí, banana, morango, granola, Ganho de Massa, 25, Sem Lactose, 350
-Espaguete de Abobrinha com Tomate, abobrinha, tomate, alho, azeite, Ganho de Massa, 30, Sem Lactose, 250
-Hambúrguer de Grão-de-Bico, grão-de-bico, cebola, alho, azeite, Ganho de Massa, 20, Vegano, Sem Lactose, 350
-Frango ao Curry com Abóbora, frango, abóbora, leite de coco, pimentão, Ganho de Massa, 40, Sem Lactose, 450
-Arroz Integral com Legumes, arroz integral, cenoura, abobrinha, Ganho de Massa, 25, Sem Lactose, 300
-Crepioca de Frango, ovo, tapioca, frango, Ganho de Massa, 20, Sem Lactose, 280
-Iogurte com Granola, iogurte sem lactose, granola, banana, Ganho de Massa, 5, Sem Lactose, 250
-Sopa Detox de Couve, couve, cenoura, abobrinha, caldo de legumes, Saudável, 30, Sem Lactose, 150
-Quinoa com Legumes Assados, quinoa, berinjela, cenoura, abóbora, Saudável, 35, Sem Lactose, Sem Glúten, 350
-Muffin de Banana e Aveia, banana, aveia, ovo, Saudável, 20, Sem Lactose, 220
-Salmão com Brócolis, salmão, brócolis, azeite, limão, Saudável, 25, Sem Lactose, 350
-Wrap de Alface com Frango, alface, frango, tomate, azeite, Saudável, 15, Sem Lactose, 200
-Salada de Grão-de-Bico, grão-de-bico, alface, tomate, azeite, Saudável, 20, Sem Lactose, 250
-Tilápia Grelhada com Aspargos, tilápia, aspargos, limão, azeite, Saudável, 25, Sem Lactose, 300
-Crepioca de Frango, ovo, tapioca, frango, Saudável, 15, Sem Lactose, 250
-Arroz Integral com Espinafre, arroz integral, espinafre, azeite, Saudável, 20, Sem Lactose, 220
-Abobrinha Recheada com Carne Moída, abobrinha, carne moída, queijo sem lactose, Saudável, 30, Sem Lactose, 350
-Smoothie Verde Detox, couve, maçã, gengibre, água, Saudável, 10, Sem Lactose, 150
+Nome_Receita;Ingredientes;Objetivo;Tempo_Preparo_Minutos;Restricoes_Alimentares;Calorias
+Frango Grelhado com Legumes;frango, brócolis, cenoura, azeite;Emagrecimento;25;Sem Lactose;250
+Peixe Assado com Batata;peixe, batata, azeite, limão;Emagrecimento;45;Sem Lactose;350
+Salada de Quinoa;quinoa, tomate, pepino, azeite, limão;Emagrecimento;20;Sem Lactose, Sem Glúten;300
+Omelete de Legumes;ovo, cenoura, espinafre, tomate;Emagrecimento;15;Sem Lactose, Sem Glúten;200
+Smoothie de Banana;banana, aveia, leite vegetal;Emagrecimento;10;Vegano, Sem Lactose, Sem Glúten;180
+Arroz Integral com Frango;arroz integral, frango, brócolis;Emagrecimento;35;Sem Lactose;350
+Carne Moída com Abóbora;carne moída, abóbora, cebola;Emagrecimento;40;Sem Lactose;400
+Peito de Frango Grelhado;frango, brócolis, azeite;Emagrecimento;30;Sem Lactose;300
+Sopa de Legumes;cenoura, batata, abobrinha, cebola;Emagrecimento;50;Sem Lactose, Sem Glúten;220
+Panqueca de Aveia;aveia, banana, leite vegetal;Emagrecimento;15;Sem Lactose, Sem Glúten;180
+Frango Grelhado com Legumes;frango, brócolis, cenoura, azeite;Ganho de Massa;30;Sem Lactose;400
+Arroz de Couve-flor com Frango;arroz de couve-flor, frango, cebola;Ganho de Massa;35;Sem Lactose;350
+Salmão ao Forno com Aspargos;salmão, aspargos, azeite, limão;Ganho de Massa;40;Sem Lactose;500
+Bowl de Açaí com Frutas;açaí, banana, morango, granola;Ganho de Massa;25;Sem Lactose;350
+Espaguete de Abobrinha com Tomate;abobrinha, tomate, alho, azeite;Ganho de Massa;30;Sem Lactose;250
+Hambúrguer de Grão-de-Bico;grão-de-bico, cebola, alho, azeite;Ganho de Massa;20;Vegano, Sem Lactose;350
+Frango ao Curry com Abóbora;frango, abóbora, leite de coco, pimentão;Ganho de Massa;40;Sem Lactose;450
+Arroz Integral com Legumes;arroz integral, cenoura, abobrinha;Ganho de Massa;25;Sem Lactose;300
+Crepioca de Frango;ovo, tapioca, frango;Ganho de Massa;20;Sem Lactose;280
+Iogurte com Granola;iogurte sem lactose, granola, banana;Ganho de Massa;5;Sem Lactose;250
+Sopa Detox de Couve;couve, cenoura, abobrinha, caldo de legumes;Saudável;30;Sem Lactose;150
+Quinoa com Legumes Assados;quinoa, berinjela, cenoura, abóbora;Saudável;35;Sem Lactose, Sem Glúten;350
+Muffin de Banana e Aveia;banana, aveia, ovo;Saudável;20;Sem Lactose;220
+Salmão com Brócolis;salmão, brócolis, azeite, limão;Saudável;25;Sem Lactose;350
+Wrap de Alface com Frango;alface, frango, tomate, azeite;Saudável;15;Sem Lactose;200
+Salada de Grão-de-Bico;grão-de-bico, alface, tomate, azeite;Saudável;20;Sem Lactose;250
+Tilápia Grelhada com Aspargos;tilápia, aspargos, limão, azeite;Saudável;25;Sem Lactose;300
+Crepioca de Frango;ovo, tapioca, frango;Saudável;15;Sem Lactose;250
+Arroz Integral com Espinafre;arroz integral, espinafre, azeite;Saudável;20;Sem Lactose;220
+Abobrinha Recheada com Carne Moída;abobrinha, carne moída, queijo sem lactose;Saudável;30;Sem Lactose;350
+Smoothie Verde Detox;couve, maçã, gengibre, água;Saudável;10;Sem
