@@ -1,0 +1,32 @@
+Nome da Receita,Ingredientes,Tempo de Preparo (min),Calorias (kcal),Tipo de Refeição,Preferência Dietética,Objetivo
+Omelete de claras com espinafre,"Claras de ovo, espinafre, cebola",10,150,Café da manhã,Proteico,Ganho de massa
+Panqueca de banana fit,"Banana, ovo, aveia",10,220,Café da manhã,Proteico,Ganho de massa
+Smoothie de morango com proteína,"Morango, iogurte natural, whey protein",5,200,Café da manhã,Proteico,Ganho de massa
+Salada de quinoa com grão-de-bico,"Quinoa, grão-de-bico, tomate, pepino",20,320,Almoço,Vegano,Manutenção
+Frango grelhado com batata-doce,"Peito de frango, batata-doce, azeite",30,450,Almoço,Low carb,Ganho de massa
+Salmão ao forno com legumes,"Salmão, abobrinha, cenoura, azeite",25,400,Almoço,Proteico,Ganho de massa
+Sopa de legumes detox,"Cenoura, abobrinha, chuchu, cebola",25,180,Jantar,Vegano,Perda de peso
+Sopa de frango com mandioquinha,"Frango desfiado, mandioquinha, cenoura",30,280,Jantar,Proteico,Ganho de massa
+Sopa de abóbora com gengibre,"Abóbora, gengibre, cebola, azeite",20,150,Jantar,Vegano,Perda de peso
+Mix de castanhas,"Castanha-do-pará, amêndoas, nozes",2,200,Lanche,Low carb,Manutenção
+Iogurte com chia e frutas,"Iogurte natural, chia, morango, banana",5,180,Lanche,Proteico,Ganho de massa
+Barrinha caseira de aveia e mel,"Aveia, mel, castanhas",15,210,Lanche,Vegano,Manutenção
+Mousse de cacau com abacate,"Abacate, cacau em pó, mel",15,180,Sobremesa,Vegano,Perda de peso
+Brigadeiro fit de whey,"Whey protein, leite de coco, cacau em pó",10,100,Sobremesa,Proteico,Ganho de massa
+Sorvete de banana congelada,"Banana congelada, cacau em pó",5,120,Sobremesa,Vegano,Perda de peso
+Sopa de ervilha fácil,"Ervilha, cebola, alho, azeite",20,200,Jantar,Vegano,Manutenção
+Sopa de lentilha rápida,"Lentilha, cenoura, cebola, alho",25,230,Jantar,Vegano,Manutenção
+Caldo de frango leve,"Frango, cenoura, batata, cebola",30,250,Jantar,Proteico,Ganho de massa
+Sopa de couve-flor cremosa,"Couve-flor, cebola, leite de amêndoas",20,150,Jantar,Vegano,Perda de peso
+Sopa de abobrinha express,"Abobrinha, alho, cebola",15,120,Jantar,Vegano,Perda de peso
+Caldo verde saudável,"Couve, batata-doce, linguiça de frango light",25,300,Jantar,Low carb,Manutenção
+Frango ao curry com arroz integral,"Peito de frango, curry, arroz integral, cebola",30,450,Almoço,Proteico,Ganho de massa
+Taco saudável de carne moída,"Carne moída magra, alface, tomate, tortilha integral",25,400,Almoço,Proteico,Ganho de massa
+Espaguete de abobrinha com molho pesto,"Abobrinha, manjericão, azeite, castanha",20,300,Almoço,Vegano,Perda de peso
+Arroz de couve-flor com frango,"Couve-flor, peito de frango, cebola, alho",20,280,Almoço,Low carb,Perda de peso
+Tofu grelhado com legumes,"Tofu, abobrinha, cenoura, azeite",20,270,Almoço,Vegano,Manutenção
+Peixe assado com purê de batata-doce,"Filé de peixe, batata-doce, azeite",30,350,Jantar,Proteico,Ganho de massa
+Cuscuz marroquino com legumes,"Cuscuz, abobrinha, cenoura, ervilhas",20,290,Jantar,Vegano,Manutenção
+Sopa de tomate rústica,"Tomate, cebola, alho, azeite",25,160,Jantar,Vegano,Perda de peso
+Caldo de carne com legumes,"Carne magra, batata, cenoura, cebola",35,400,Jantar,Proteico,Ganho de massa
+Sopa de frango low carb,"Frango desfiado, abobrinha, espinafre, caldo de legumes",25,220,Jantar,Low carb,Perda de peso
