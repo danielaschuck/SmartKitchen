@@ -6,7 +6,7 @@ Salada de quinoa com grão-de-bico,"Quinoa, grão-de-bico, tomate, pepino",20,32
 Frango grelhado com batata-doce,"Peito de frango, batata-doce, azeite",30,450,Almoço,Low carb,Ganho de massa
 Salmão ao forno com legumes,"Salmão, abobrinha, cenoura, azeite",25,400,Almoço,Proteico,Ganho de massa
 Sopa de legumes detox,"Cenoura, abobrinha, chuchu, cebola",25,180,Jantar,Vegano,Perda de peso
-Sopa de frango com mandioquinha,"Frango desfiado, mandioquinha, cenoura",30,280,Jantar,Proteico,Ganho de massa
+Sopa de frango com mandioquinha,"Frango , mandioquinha, cenoura",30,280,Jantar,Proteico,Ganho de massa
 Sopa de abóbora com gengibre,"Abóbora, gengibre, cebola, azeite",20,150,Jantar,Vegano,Perda de peso
 Mix de castanhas,"Castanha-do-pará, amêndoas, nozes",2,200,Lanche,Low carb,Manutenção
 Iogurte com chia e frutas,"Iogurte natural, chia, morango, banana",5,180,Lanche,Proteico,Ganho de massa
@@ -20,3 +20,23 @@ Caldo de frango leve,"Frango, cenoura, batata, cebola",30,250,Jantar,Proteico,Ga
 Sopa de couve-flor cremosa,"Couve-flor, cebola, leite de amêndoas",20,150,Jantar,Vegano,Perda de peso
 Sopa de abobrinha express,"Abobrinha, alho, cebola",15,120,Jantar,Vegano,Perda de peso
 Caldo verde saudável,"Couve, batata-doce, linguiça de frango light",25,300,Jantar,Low carb,Manutenção
+Arroz integral com legumes,"Arroz integral, cenoura, ervilha, milho",30,320,Almoço,Vegano,Manutenção
+Frango xadrez leve,"Peito de frango, pimentão, cebola, shoyu light",25,350,Almoço,Proteico,Ganho de massa
+Tofu grelhado com legumes,"Tofu, abobrinha, berinjela, azeite",20,280,Almoço,Vegano,Manutenção
+Carne moída com abóbora,"Carne moída magra, abóbora, cebola",30,400,Almoço,Low carb,Ganho de massa
+Peito de frango desfiado com brócolis,"Peito de frango, brócolis, azeite",25,320,Almoço,Proteico,Ganho de massa
+Ovos mexidos com tomate,"Ovos, tomate, cebola",10,180,Café da manhã,Proteico,Manutenção
+Cuscuz nordestino com ovo,"Cuscuz, ovo, azeite",15,250,Café da manhã,Vegetariano,Ganho de massa
+Tapioca com frango desfiado,"Tapioca, frango, requeijão light",10,280,Lanche,Proteico,Ganho de massa
+Pão de queijo de frigideira,"Polvilho azedo, ovo, queijo parmesão",15,230,Lanche,Low carb,Manutenção
+Crepioca recheada,"Ovo, tapioca, queijo branco",10,220,Lanche,Proteico,Ganho de massa
+Iogurte com granola caseira,"Iogurte natural, granola, mel",5,200,Lanche,Vegetariano,Manutenção
+Salada de atum com grão-de-bico,"Grão-de-bico, atum, cebola, azeite",15,300,Almoço,Proteico,Manutenção
+Wrap de alface com frango,"Alface, frango, cenoura ralada",10,200,Lanche,Low carb,Perda de peso
+Salada de ovo com abacate,"Ovo cozido, abacate, alface",10,250,Almoço,Low carb,Manutenção
+Sopa cremosa de espinafre,"Espinafre, batata, cebola, leite vegetal",20,160,Jantar,Vegano,Perda de peso
+Sopa de frango com legumes,"Frango, cenoura, abobrinha, cebola",30,270,Jantar,Proteico,Manutenção
+Caldo de legumes com quinoa,"Quinoa, cenoura, chuchu, cebola",25,200,Jantar,Vegano,Perda de peso
+Macarrão integral com legumes,"Macarrão integral, brócolis, cenoura",25,350,Almoço,Vegano,Manutenção
+Pudim proteico de chia,"Chia, leite vegetal, essência de baunilha",10,180,Sobremesa,Vegano,Manutenção
+Banana assada com canela,"Banana, canela, mel (opcional)",15,120,Sobremesa,Vegano,Perda de peso
